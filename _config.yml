@@ -30,3 +30,5 @@ defaults:
     values:
       layout: "default"
       categories: "blog"
+
+theme: jekyll-theme-cayman
