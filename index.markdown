@@ -3,5 +3,5 @@ layout: empty
 ---
 
 ~~~
-Badly
+well
 ~~~
